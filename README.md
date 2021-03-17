@@ -1,4 +1,4 @@
-# Online-food-delivary
+# Online-food-delivary(CE 4th sem Project)
 
 It is an android app for delivarying food from restaurant to the home .
 
